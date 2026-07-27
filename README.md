@@ -39,4 +39,5 @@ Beyond standard energy analysis (COP), the framework quantifies dynamic **Exergy
 ```text
 ├── docs/
 │   └── Thermodynamic_Exergy_Analysis_Report.pdf  # Complete Technical Report
+├── refrigeration_cycle_analysis.m                # MATLAB & CoolProp Source Code
 └── README.md                                     # Technical Case Study Summary
